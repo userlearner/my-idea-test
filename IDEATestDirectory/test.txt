@@ -1,2 +1,1 @@
 test the function of undo commit
-undo pushed commit
