@@ -1,2 +1,1 @@
-staging test
-create new branch based on staging
+staging branch
