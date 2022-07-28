@@ -1,5 +1,4 @@
 staging branch
 TM1 branch
-TM3 branch
 TM2 branch
-TM4 branch
+TM3 branch
