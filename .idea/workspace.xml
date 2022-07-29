@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efac860d-ffdb-4ba9-9bb7-d7d430aced0d" name="Changes" comment="test again" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="MY/Test1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CI2i0wzMbGzc8iCl2Cb1rnTvuD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WorkSpace/my-idea-test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efac860d-ffdb-4ba9-9bb7-d7d430aced0d" name="Changes" comment="" />
+      <created>1658475911925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658475911925</updated>
+    </task>
+    <task id="LOCAL-00001" summary="create staging branch based on master">
+      <created>1658476168968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658476168968</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create test branch based on staging">
+      <created>1658476263310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658476263310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create new branch based on master">
+      <created>1658476450284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658476450284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1658477575260</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658477575260</updated>
+    </task>
+    <task id="LOCAL-00005" summary="something">
+      <created>1658477876009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658477876009</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test undo">
+      <created>1658478988862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658478988862</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test2">
+      <created>1658480402355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658480402355</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3">
+      <created>1658480508444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658480508444</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3yy">
+      <created>1658480722717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658480722717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="staging branch">
+      <created>1658993270904</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658993270904</updated>
+    </task>
+    <task id="LOCAL-00011" summary="TM1 branch">
+      <created>1658993372667</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658993372667</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TM2 branch">
+      <created>1658993444826</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658993444826</updated>
+    </task>
+    <task id="LOCAL-00013" summary="TM2 branch">
+      <created>1658993682637</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658993682637</updated>
+    </task>
+    <task id="LOCAL-00014" summary="TM3 branch">
+      <created>1658994147566</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658994147566</updated>
+    </task>
+    <task id="LOCAL-00015" summary="TM4 branch">
+      <created>1658995165639</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658995165639</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TM3 branch">
+      <created>1659000657572</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1659000657572</updated>
+    </task>
+    <task id="LOCAL-00017" summary="TM4 branch">
+      <created>1659000971857</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1659000971857</updated>
+    </task>
+    <task id="LOCAL-00018" summary="delete space">
+      <created>1659001791548</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1659001791548</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test TM1">
+      <created>1659001860884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1659001860884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="test TM2">
+      <created>1659001933922</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1659001933922</updated>
+    </task>
+    <task id="LOCAL-00021" summary="MY test1 branch">
+      <created>1659002943580</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1659002943580</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test again">
+      <created>1659070116141</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1659070116141</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="staging" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create staging branch based on master" />
+    <MESSAGE value="create test branch based on staging" />
+    <MESSAGE value="create new branch based on master" />
+    <MESSAGE value="test" />
+    <MESSAGE value="something" />
+    <MESSAGE value="test undo" />
+    <MESSAGE value="test2" />
+    <MESSAGE value="3" />
+    <MESSAGE value="3yy" />
+    <MESSAGE value="staging branch" />
+    <MESSAGE value="TM1 branch" />
+    <MESSAGE value="TM2 branch" />
+    <MESSAGE value="TM3 branch" />
+    <MESSAGE value="TM4 branch" />
+    <MESSAGE value="delete space" />
+    <MESSAGE value="test TM1" />
+    <MESSAGE value="test TM2" />
+    <MESSAGE value="MY test1 branch" />
+    <MESSAGE value="test again" />
+    <option name="LAST_COMMIT_MESSAGE" value="test again" />
+  </component>
+</project>
